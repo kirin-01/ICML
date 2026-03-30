@@ -189,14 +189,6 @@ The generated figures included in this repository are:
 - `mlp_param_sweep_adam_lbfgs.png`
 - `reviewer_mlp_protocol_adam.png`
 
-## What Is Still Missing
-
-The following are the main remaining gaps if a more complete artifact is desired:
-
-- tabulate the final numeric results for all `pinn.py` runs
-- finish or rerun the `GELU` reviewer-style case
-- report grid-evaluated solution `MSE` consistently for all reviewer-style runs
-
 ## Reproducibility Note
 
 Wall-clock times depend on hardware, CUDA initialization, and environment. The times shown above should be treated as run logs from this machine rather than universal speed claims.
